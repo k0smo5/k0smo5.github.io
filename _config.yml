@@ -1,6 +1,6 @@
 # 1. Site Settings
-title               : false
-owner               : false
+title               : "k0smo5's blog"
+owner               : 
 url                 : "https://k0smo5.github.io"
 baseurl             :
 permalink           : /:title/
