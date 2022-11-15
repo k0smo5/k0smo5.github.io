@@ -3,7 +3,7 @@ title               :
 owner               : 
 url                 : "https://k0smo5.github.io"
 baseurl             :
-permalink           : /
+permalink           : /:title/
 description         : "A hacker's blog"
 markdown            : kramdown
 statement           : 
